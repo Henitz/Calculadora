@@ -12,5 +12,5 @@ Segunda execução de:
 
 ## Configuração extra de:
 
-(Leia-me )[leiame1.png]
-(Leia-me )[leiame2.png]
+[Leia-me ](leiame1.png)
+[Leia-me ](leiame2.png)
